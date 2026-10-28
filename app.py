@@ -1674,8 +1674,6 @@ if page == "🏠 Home":
 
     st.markdown("### 👨‍🏫 Developed by")
     st.markdown("**Aswin**")
-    st.markdown("Assistant Professor  ")
-    st.markdown("Division of Chemistry, School of Sciences  ")
     st.markdown("Faculty of Engineering and Technology  ")
     st.markdown("SRM Institute of Science and Technology, Tiruchirappalli")
 
